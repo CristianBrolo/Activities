@@ -17,6 +17,12 @@ Se procede a generar las respectivas actividades para la tarea
 
 7) Se contempla el uso de "EditText de Material Design"
 
+8) Se procede a cambiar los colores del tema con el Primary Color, Dark Primary Color y Accent Color
+
+9) FIN :)
+
+Se contemplaron todos los puntos de la tarea
+
 
 
 
