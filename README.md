@@ -12,3 +12,11 @@ Se procede a generar las respectivas actividades para la tarea
 4) Se crea un DatePicker en modo Spinner para que se acomple a lo pedido en la Tarea
 
 5) Se coloca el Botón de Siguiente en la App y se procede a llenar la siguiente Activity "ConfirmarDatos"
+
+6) Se colocan los TextViews Respectivos en la activity de "ConfirmarDatos"
+
+7) Se contempla el uso de "EditText de Material Design"
+
+
+
+
