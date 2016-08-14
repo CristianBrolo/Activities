@@ -15,11 +15,13 @@ Se procede a generar las respectivas actividades para la tarea
 
 6) Se colocan los TextViews Respectivos en la activity de "ConfirmarDatos"
 
-7) Se contempla el uso de "EditText de Material Design"
+7) Se crea el botón de "Editar Datos"
 
-8) Se procede a cambiar los colores del tema con el Primary Color, Dark Primary Color y Accent Color
+8) Se contempla el uso de "EditText de Material Design"
 
-9) FIN :)
+9) Se procede a cambiar los colores del tema con el Primary Color, Dark Primary Color y Accent Color
+
+10) FIN :)
 
 Se contemplaron todos los puntos de la tarea
 
